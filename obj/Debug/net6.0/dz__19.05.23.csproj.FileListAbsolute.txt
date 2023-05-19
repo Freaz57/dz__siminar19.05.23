@@ -1,0 +1,15 @@
+D:\Учеба\dz__19.05.23\bin\Debug\net6.0\dz__19.05.23.exe
+D:\Учеба\dz__19.05.23\bin\Debug\net6.0\dz__19.05.23.deps.json
+D:\Учеба\dz__19.05.23\bin\Debug\net6.0\dz__19.05.23.runtimeconfig.json
+D:\Учеба\dz__19.05.23\bin\Debug\net6.0\dz__19.05.23.dll
+D:\Учеба\dz__19.05.23\bin\Debug\net6.0\dz__19.05.23.pdb
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.csproj.AssemblyReference.cache
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.AssemblyInfoInputs.cache
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.AssemblyInfo.cs
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.csproj.CoreCompileInputs.cache
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.dll
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\refint\dz__19.05.23.dll
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.pdb
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\dz__19.05.23.genruntimeconfig.cache
+D:\Учеба\dz__19.05.23\obj\Debug\net6.0\ref\dz__19.05.23.dll
