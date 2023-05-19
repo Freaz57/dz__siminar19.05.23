@@ -85,15 +85,7 @@
             
 
 
-// if((num >1) && (num<10))
-// {
-// int sum = num % 10 ;
-// Console.Write(sum);
-// }
 
-// else {
-//    Console.WriteLine("false"); 
-// }
 
 
 
